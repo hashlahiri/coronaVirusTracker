@@ -1,2 +1,3 @@
-# coronaVirusTracker
-Coronavirus tracker - FrontEnd: Bootstrap4 and JQuery. Backend: SpringBoot
+Coronavirus tracker
+FrontEnd: Bootstrap and jquery
+Backend: SpringBoot
